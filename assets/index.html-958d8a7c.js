@@ -1,0 +1,1 @@
+import{_ as t}from"./107af156327eeefee548c2b81616e04b-861e565b.js";import{_ as o,o as s,c as _,b as e}from"./app-88bb898e.js";const c={},n=e("p",null,"别看了，后端是一点都不会",-1),r=e("img",{src:t,alt:"img",style:{zoom:"70%"}},null,-1),l=[n,r];function i(a,m){return s(),_("div",null,l)}const p=o(c,[["render",i],["__file","index.html.vue"]]);export{p as default};
